@@ -12,7 +12,8 @@ Simulation of improved safety of node Am Fuchsberg / Leipziger str/ Erich-Weiner
 
 ## Milestone 2 : Project Plans
 
-The tasks were divided into several work packets and assigned to the respective roles along with the time duration and priority status for each task. A Project cost estimate = 60,000 euros
+The tasks were divided into several work packets and assigned to the respective roles along with the time duration and priority status for each task. <\br> 
+Project cost estimate = 60,000 euros <\br> 
 Man-hour = 100 euros
 
 
